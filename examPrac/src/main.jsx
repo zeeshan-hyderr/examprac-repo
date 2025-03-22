@@ -4,6 +4,6 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <App name="zeeshan" />
+    <App name="zeeshan hyder" />
   </StrictMode>,
 )
